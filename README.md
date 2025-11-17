@@ -47,6 +47,4 @@ The complete HTML analysis report can be viewed online here:
 
 ## Author
 **Luka Bojovic**  
-[lukabojovic@gmail.com](mailto:lukabojovic@gmail.com)  
-[linkedin.com/in/lukabojovic](https://linkedin.com/in/lukabojovic)  
-[github.com/lukabojovic](https://github.com/lukabojovic)
+[lbojovic2@gmail.com](mailto:lbojovic2@gmail.com)
