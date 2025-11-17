@@ -6,6 +6,11 @@
 ## Objective
 Predict whether garment workers in Bangladesh meet daily production targets based on behavioral, environmental, and management-related variables.
 
+Full Report
+------------
+The complete HTML analysis report can be viewed online here:  
+[View HTML Report](https://l-vice.github.io/garment_workers_productivity/report/09102025_garment_workers_LBK.html)
+
 ---
 
 ## Methodology
